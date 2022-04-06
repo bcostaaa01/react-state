@@ -1,3 +1,23 @@
+# React State practice
+
+⚛️ This project was created as a practice on using State in React with the useState hook.
+
+## learning outcome of this practice
+
+I have learned how to:
+
+➡️ set state
+➡️ read state
+➡️ update state
+
+And I had fun, of course!🥳
+
+## software design/codebase
+
+⚙️ functional components
+⚙️ destructuring
+⚙️ onClick events
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
