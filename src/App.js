@@ -4,7 +4,6 @@ import MemoizedComponent from './Components/Person';
 function App() {
   return (
     <div className="App">
-    Testing
       <MemoizedComponent />
     </div>
   );
