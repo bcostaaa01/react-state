@@ -32,11 +32,11 @@ const Person = () => {
       });
   };
 
-  const [woonplats, setWoonplats] = useState('Limburg');
+  const [woonplats, setWoonplats] = useState('Europe');
 
   const updateWoonplats = () => {
       setWoonplats((woonplats) => {
-return woonplats = 'Den Bosch'
+return woonplats = 'Oceania'
       })
   }
 
